@@ -1,0 +1,255 @@
+body{
+	background-image:url();
+	background-size: ;
+	z-index: -1
+}
+div.a{
+	font-family: 微軟正黑體;
+	color: #ffa500;
+	text-align: center;
+	float: right;
+	width: 150px;
+	height: 120px;
+	font-size: 28px;
+}
+.loge{
+	float: left;
+	width: 600px;
+	height: 100px;
+}
+.pt1{
+    width: 28%;
+    margin-left:5%;
+    margin-top:5%;
+
+}
+.b{
+	font-family: 標楷體;
+	font-size: 36px;
+	font-weight: bold;
+	position: absolute;
+	left: 45%;
+	top: 110px;
+}
+.b1{
+	font-family: 標楷體;
+	font-size: 28px;
+	font-weight: bold;
+	left:35%;
+	top:185px;
+	position: absolute;
+}
+.b2{
+	font-family: 標楷體;
+	font-size: 28px;
+	font-weight: bold;
+	left:35%;
+	top:285px;
+	position: absolute;
+}
+.b3{
+	font-family: 標楷體;
+	font-size: 28px;
+	font-weight: bold;
+	left:35%;
+	top:385px;
+	position: absolute;
+}
+.pt2{
+	width:200px;
+	height: 150px;
+	left: 280px;
+	position: absolute;
+	top: 1100px;
+    z-index: -1;
+
+}
+.c{
+	font-family: 標楷體;
+	font-size: 36px;
+	font-weight: bold;
+	position: absolute;
+	left: 45%;
+	top: 480px;
+
+}
+.c1{
+	font-family: 標楷體;
+	font-size: 32px;
+	font-weight: bold;
+	
+}
+.c2{
+	font-family: 標楷體;
+	font-size: 28px;
+	font-weight: bold;
+	
+}
+.c3{
+	font-family: 標楷體;
+	font-size: 32px;
+	font-weight: bold;
+}
+.d{
+	font-family: 標楷體;
+	font-size: 36px;
+	font-weight: bold;
+	position: absolute;
+	left: 45%;
+	top: 980px;
+}
+.d1{
+	font-family: 標楷體;
+	font-size: 34px;
+	font-weight: bold;
+	position: absolute;
+	left: 8%;
+	top: 1125px;
+}
+.d2{
+	font-family: 標楷體;
+	font-size: 34px;
+	font-weight: bold;
+	position: absolute;
+	left: 32%;
+	top:1125px;
+}
+.pt3{
+	width:200px;
+	height: 150px;
+	left: 650px;
+	position: absolute;
+	top: 1100px;
+	z-index: -1;
+}
+.d3{
+	font-family: 標楷體;
+	font-size: 34px;
+	font-weight: bold;
+	position: absolute;
+	left: 56%;
+	top:1125px;
+}
+.pt4{
+	width:200px;
+	height: 150px;
+	left: 1020px;
+	position: absolute;
+	top: 1100px;
+	z-index: -1;
+}
+.d4{
+	font-family: 標楷體;
+	font-size: 34px;
+	font-weight: bold;
+	position: absolute;
+	left: 80%;
+	top:1125px;
+}
+.e{
+	font-family: 標楷體;
+	font-size: 36px;
+	font-weight: bold;
+	position: absolute;
+	left: 45%;
+	top: 1280px;
+}
+.e1{
+	font-family: 標楷體;
+	font-size: 34px;
+	font-weight: bold;
+	position: absolute;
+	left: 5%;
+	right: 5%;
+	top: 1380px;
+	text-align: center;
+}
+.f{
+	font-family: 標楷體;
+	font-size: 36px;
+	font-weight: bold;
+	position: absolute;
+	left: 45%;
+	top: 1680px;
+}
+.pt5{
+	width:300px;
+	height: 400px;
+	left: 120px;
+	position: absolute;
+	top: 1800px;
+    z-index: -1;
+}
+.pt6{
+	width:300px;
+	height: 400px;
+	left: 480px;
+	position: absolute;
+	top: 1800px;
+    z-index: -1;
+}
+.pt7
+{
+	width:450px;
+	height: 400px;
+	left: 840px;
+	position: absolute;
+	top: 1800px;
+    z-index: -1;
+}
+.pt11{
+	width:100px;
+	height: 100px;
+	left: 71%;
+	position: absolute;
+	top: 735px;
+    
+}
+.g{
+	font-family: 標楷體;
+	font-size: 24px;
+	font-weight: bold;
+	position: absolute;
+	left: 72%;
+	top: 545px;
+}
+.g1{
+    font-family: 標楷體;
+	font-size: 24px;
+	font-weight: bold;
+	position: absolute;
+	left: 72%;
+	top: 605px;
+}
+.g2{
+	font-family: 標楷體;
+	font-size: 24px;
+	font-weight: bold;
+	position: absolute;
+	left: 72%;
+	top: 665px;
+}
+.g3{
+	font-family: 標楷體;
+	font-size: 24px;
+	font-weight: bold;
+	position: absolute;
+	left: 72%;
+	top: 725px;
+}
+.g4{
+	font-family: 標楷體;
+	font-size: 24px;
+	font-weight: bold;
+	position: absolute;
+	left: 72%;
+	top: 725px;
+}
+.pt12{
+	width:100px;
+	height: 100px;
+	left: 84%;
+	position: absolute;
+	top: 725px;
+    
+}
